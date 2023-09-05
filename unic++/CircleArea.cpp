@@ -9,4 +9,5 @@ int main() {
 	cin >> radius; // 반지름 입력
 	double area = radius * radius * PI; // 넓이 계산
 	cout << "원의 면적 = " << area << endl; // 결과 출력
+
 }
